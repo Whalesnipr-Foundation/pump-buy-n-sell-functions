@@ -29,6 +29,9 @@ e.g confirm_txn will get the result of the transaction.
 
 
 
+
+## Last but not least... 
+
 Be sure to join our Discord for more trading tools and code. 
 
 Donation Wallet: 6ZnZwDYvDU38ztgN5KzWgkD3UcYYs7sKEPPL531zDPyT
