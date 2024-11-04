@@ -2,7 +2,7 @@
 
 This repository holds the metadata and transaction instruction blueprint for buying and selling pump fun tokens. 
 
-# #Main File pump_fun.py 
+## Main File pump_fun.py 
 
 Functions: 
 buy(mint_str sol_in, slippage, priority_in_lamports)
