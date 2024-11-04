@@ -5,8 +5,8 @@ This repository holds the metadata and transaction instruction blueprint for buy
 ## Main File pump_fun.py 
 
 Functions: 
-buy(mint_str sol_in, slippage, priority_in_lamports)
-sell(mint_str, priority_in_lamports,token_balance, slippage,  close_token_account: bool)
+`buy(mint_str sol_in, slippage, priority_in_lamports)`
+`sell(mint_str, priority_in_lamports,token_balance, slippage,  close_token_account: bool)`
 
 ## Constants (constants.py): 
 
@@ -19,7 +19,7 @@ Gets the information (such as price) about the coin via its bonding curve
 
 ## Configurations (config.py): 
 
-Replace "PRIV_KEY" and "RPC" with your Private Key and RPC URL. (required) 
+Replace `"PRIV_KEY"` and `"RPC"` with your Private Key and RPC URL. (required) 
 
 
 ## Utils (config.py): 
